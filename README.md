@@ -1,6 +1,6 @@
   
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">Développeur Fullstack Web & Mobile</h3>
+<h3 align="center">Développeur web & mobile Front-End</h3>
 
 - 👨‍💻 All of my projects are available at my portfolio [https://bellaviajimmy.vercel.app/](https://bellaviajimmy.vercel.app/)
 
